@@ -2,7 +2,7 @@
 # para metilaciones que estén dentro del gen según caigan en exones o intrones. Finalmente, a falta de una
 # métrica mejor, sacamos el promedio para cada uno. Así, cada gen tiene un score para la metilación
 # que se encuentra antes, en sus exones, en sus intrones y después de él, correspondiente al promedio de
-# los scores de las regiones metiladas que pertenecen a cada categoría.
+# los scores de las regiones metiladas que pertenecen a cada categoría.....
 
 library(RSQLite)
 library(argparse)
